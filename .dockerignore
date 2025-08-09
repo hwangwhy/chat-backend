@@ -1,0 +1,9 @@
+target/
+!target/chat-backend-0.0.1-SNAPSHOT.jar
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
+uploads/
+*.log
